@@ -21,6 +21,8 @@ Skills: POWER BI / POWER APPS / POWER AUTOMATE / POWER VIRTUAL AGENT / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Uchemena)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rachel Irabor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Richie4love)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Rachel Irabor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/racheliraborportfolio/home)  
 
+
+
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchemena&theme=radical&show_icons=true)
 
 
@@ -28,4 +30,3 @@ Skills: POWER BI / POWER APPS / POWER AUTOMATE / POWER VIRTUAL AGENT / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Uchemena)  
 
-![Profile views](https://gpvc.arturio.dev/Uchemena)  
