@@ -8,7 +8,7 @@ I'm Rachel Irabor from Nigeria and I am a data analyst with knowledge of Microso
 https://www.linkedin.com/in/rachel-irabor-815a18199/ or twitter: https://mobile.twitter.com/Richie4love
 
 
-Skills: POWER BI / POWER APPS / POWER AUTOMATE / POWER VIRTUAL AGENT / CSS
+Skills: POWER BI / POWER APPS / POWER AUTOMATE / POWER VIRTUAL AGENT / PYTHON / MICROSOFT EXCEL / MICROSOFT WORD / POWER POINT 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python and Microsoft Power Platform  
