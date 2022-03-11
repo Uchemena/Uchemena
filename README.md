@@ -1,17 +1,19 @@
-![Data Analyst and Microsoft Power Platform ](https://media-exp1.licdn.com/dms/image/C5603AQHf6ItnahMYQw/profile-displayphoto-shrink_200_200/0/1578730113221?e=1647475200&v=beta&t=9lllbic6axhS3N4egFteOAK35NCEVRrj72FO7IByLos)
-
+<p align="center">
+     
 <h3 align="center">
+</p>                  
      Hi there, I am <a href="https://www.Linkedln.com/in/rachelirabor/" target="_blank" rel="noreferrer">Rachel Irabor</a>
 </h3>
+<h2 align="center">
+     I am self driven and passionate about learning and solving real life problems.
 
+     
 </h2>
-
-I am passionate and self driven 
+I 
 
  ### 🤝 Connect with me 
-<a href="https://www.linkedin.com/in/rachel-irabor/"><img align="left" src="https//:raw.githubusercontent.com/Uchemena/Uchemena/main/image/linkedln.png" alt="Uche mena | Linkedln" width="21px"/></a>
-<a href="https://mobile.twitter.com/Richie4love"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/images/twitter.png" alt="Richie4love | Twitter" width="21px"/></a>
-
+<a href="https://www.linkedin.com/in/rachelirabor/"><img align="left" src="https//:raw.githubusercontent.com/Uchemena/Uchemena/main/images/linkedln.png" alt="Rachel Irabor | Linkedln" width="21px"/></a>
+<a href="https://twitter.com/Richie4love"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/images/twitter.png" alt="Richie4love | Twitter" width="21px"/></a>
 
 
 ## 🔭 
@@ -38,19 +40,16 @@ I’m currently learning:
 ## ⚡ 
  Fun fact about me:
 - I love baking 
-- I love reading and acquiring new knowledge 
-
-## 👨‍💻 Skills
-
-</br>
-![](https://img.shields.io/badge/Tools-Power Apps-information?style=flat&logo=Power Apps&color=
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Uchemena)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rachel Irabor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Richie4love)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Rachel Irabor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/racheliraborportfolio/home)  
+## 👨‍💻 Skills
+- Power Apps, Power Automate, Power Virtual Agent, Sharepoint, Microsoft 365, Microsoft Excel, Microsoft Word, Microsoft Power Point, Python
+
+
 
 ## 📖 Latest Blog Posts
 - [Customer Inventory and Daily Expenses App](
-
+- [more blogs](https://rachelirabor8.medium.com/)
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchemena&theme=radical&show_icons=true)
 
