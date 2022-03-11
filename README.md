@@ -9,10 +9,10 @@
 
      
 </h2>
-I 
+I am dedicated to building tech communities by being active Power Platform User Group Edo - a community in Edo State, Nigeria to upskill people in Power Platform. 
 
  ### 🤝 Connect with me 
-<a href="https://www.linkedin.com/in/rachelirabor/"><img align="left" src="https//:raw.githubusercontent.com/Uchemena/Uchemena/main/images/linkedln.png" alt="Rachel Irabor | Linkedln" width="21px"/></a>
+<a href="https://www.linkedin.com/in/rachelirabor/"><img align="left" src="https//:raw.githubusercontent.com/Uchemena/Uchemena/main/images/linkedln.png" alt="RachelIrabor | Linkedln" width="21px"/></a>
 <a href="https://twitter.com/Richie4love"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/images/twitter.png" alt="Richie4love | Twitter" width="21px"/></a>
 
 
@@ -20,7 +20,7 @@ I
 I’m currently working on:
 
 - My portfolio website
-- My old project
+- My old projects
 - My next blog 
 
  
