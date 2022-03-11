@@ -3,19 +3,23 @@
      Hi there, I am <a href="https://www.Linkedln.com/in/rachelirabor/" target="_blank" rel="noreferrer">Rachel Irabor</a>
 </h3>
 <h2 align="center">
-     I am self driven and passionate about learning and solving real life problems.
+     Data Analyst, Power Platform Developer, Power Platform Advocate
 
      
+   
+     
 </h2>
-I am dedicated to building tech communities by being active Power Platform User Group Edo - a community in Edo State, Nigeria to upskill people in Power Platform. 
+I am self driven and passionate about learning and dedicated to building tech communities.
 
 ### 🤝 Connect with me 
-<a href="https://www.linkedin.com/in/rachelirabor/"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/images/linkedln.png" alt="RachelIrabor | Linkedln" width="21px"/></a>
-<a href="https://twitter.com/Richie4love"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/images/twitter.png" alt="Richie4love | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/rachelirabor/"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/Images/linkedin.png" alt="RachelIrabor | Linkedln" width="21px"/></a>
+<a href="https://twitter.com/Richie4love"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/Images/twitter.png" alt="Richie4love | Twitter" width="21px"/></a>
 
+<!-- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a> -->
 
-## 🔭 
-I’m currently working on:
+don't hesitate to reach out to me
+
+## 🔭 I’m currently working on:
 
 - My portfolio website
 - My old projects
@@ -27,10 +31,10 @@ I’m currently learning:
 
  - Power Apps 
  - Power Automate  
-
+ - Google Data Analytic Course
  
 ## 🤔
- I’m looking for help with:
+ I’m looking for:
   
 - Internship roles in Microsoft Power Platform 
 
