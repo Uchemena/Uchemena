@@ -1,7 +1,5 @@
-<p align="center">
      
 <h3 align="center">
-</p>                  
      Hi there, I am <a href="https://www.Linkedln.com/in/rachelirabor/" target="_blank" rel="noreferrer">Rachel Irabor</a>
 </h3>
 <h2 align="center">
@@ -11,8 +9,8 @@
 </h2>
 I am dedicated to building tech communities by being active Power Platform User Group Edo - a community in Edo State, Nigeria to upskill people in Power Platform. 
 
- ### 🤝 Connect with me 
-<a href="https://www.linkedin.com/in/rachelirabor/"><img align="left" src="https//:raw.githubusercontent.com/Uchemena/Uchemena/main/images/linkedln.png" alt="RachelIrabor | Linkedln" width="21px"/></a>
+### 🤝 Connect with me 
+<a href="https://www.linkedin.com/in/rachelirabor/"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/images/linkedln.png" alt="RachelIrabor | Linkedln" width="21px"/></a>
 <a href="https://twitter.com/Richie4love"><img align="left" src="https://raw.githubusercontent.com/Uchemena/Uchemena/main/images/twitter.png" alt="Richie4love | Twitter" width="21px"/></a>
 
 
