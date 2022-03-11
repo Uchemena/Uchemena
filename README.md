@@ -1,6 +1,6 @@
     
 <h3 align="center">
-     Hi there, I am <a href="https://www.Linkedln.com/in/rachelirabor/" target="_blank" rel="noreferrer">Rachel Irabor</a>
+     Hi there 👋, I am <a href="https://www.Linkedln.com/in/rachelirabor/" target="_blank" rel="noreferrer">Rachel Irabor</a>
 </h3>
 <h2 align="center">
      Data Analyst, Power Platform Developer, Power Platform Advocate
