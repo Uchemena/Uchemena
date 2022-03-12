@@ -50,7 +50,7 @@ I’m currently learning:
 
 
 ## 📖 Latest Blog Posts
-- [Customer Inventory and Daily Expenses App](
+- [Customer Inventory and Daily Expenses App](https://rachelirabor8.medium.com/customer-inventory-and-daily-expenses-app-c01b59b724e4)
 - [more blogs](https://rachelirabor8.medium.com/)
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchemena&theme=radical&show_icons=true)
