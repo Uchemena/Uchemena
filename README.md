@@ -1,6 +1,6 @@
     
 <h3 align="center">
-     Hi there 👋, I am <a href="https://https://www.linkedin.com/in/rachelirabor/" target="_blank" rel="noreferrer">Rachel Irabor</a>
+     Hi there 👋, I am <a href="https://www.linkedin.com/in/rachelirabor/" target="_blank" rel="noreferrer">Rachel Irabor</a>
 </h3>
 <h2 align="center">
     Just A Girl In Love with Tech
@@ -45,7 +45,7 @@ I’m currently learning:
  
 
 ## 👨‍💻 Skills
-- Power Apps, Power Automate, Power Virtual Agent, Sharepoint, Microsoft 365, Microsoft Excel, Microsoft Word, Microsoft Power Point, Python
+- Power Apps, Power Automate, Power Virtual Agent, Sharepoint, Microsoft 365, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Python
 
 
 
