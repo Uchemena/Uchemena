@@ -50,6 +50,7 @@ I’m currently learning:
 
 
 ## 📖 Latest Blog Posts
+- [Update SharePoint List Via Power Apps With Attachments](https://rachelirabor8.medium.com/updating-sharepoint-via-powerapps-with-attachment-74ead74ec97e)
 - [Customer Inventory and Daily Expenses App](https://rachelirabor8.medium.com/customer-inventory-and-daily-expenses-app-c01b59b724e4)
 - [more blogs](https://rachelirabor8.medium.com/)
 
