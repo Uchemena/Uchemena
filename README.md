@@ -31,7 +31,7 @@ I’m currently learning:
 
  - Power Apps 
  - Power Automate  
- - Google Data Analytic Course
+
  
 ## 🤔
  I’m looking for:
@@ -52,6 +52,8 @@ I’m currently learning:
 ## 📖 Latest Blog Posts
 - [Update SharePoint List Via Power Apps With Attachments](https://rachelirabor8.medium.com/updating-sharepoint-via-powerapps-with-attachment-74ead74ec97e)
 - [Customer Inventory and Daily Expenses App](https://rachelirabor8.medium.com/customer-inventory-and-daily-expenses-app-c01b59b724e4)
+- [Customer Complaint Management App](https://rachelirabor8.medium.com/customer-complaint-management-app-10efc223bbd2)
+- [Messaging Extension in Microsoft Teams](https://rachelirabor8.medium.com/messaging-extension-in-teams-cbf257418348)
 - [more blogs](https://rachelirabor8.medium.com/)
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchemena&theme=radical&show_icons=true)
