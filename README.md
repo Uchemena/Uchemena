@@ -24,6 +24,7 @@ don't hesitate to reach out to me
 - My portfolio website
 - My old projects
 - My next blog 
+ 
 
  
 ## 🌱 
@@ -36,12 +37,13 @@ I’m currently learning:
 ## 🤔
  I’m looking for:
   
-- Internship roles in Microsoft Power Platform 
+- Junior roles in Microsoft Power Platform 
 
 
 ## ⚡ 
  Fun fact about me:
 - I love baking 
+- I love reading novels
  
 
 ## 👨‍💻 Skills
