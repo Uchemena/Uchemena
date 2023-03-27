@@ -57,6 +57,11 @@ I’m currently learning:
 - [Customer Complaint Management App](https://rachelirabor8.medium.com/customer-complaint-management-app-10efc223bbd2)
 - [Messaging Extension in Microsoft Teams](https://rachelirabor8.medium.com/messaging-extension-in-teams-cbf257418348)
 - [more blogs](https://rachelirabor8.medium.com/)
+- 
+
+## Youtube Videos 
+- [How to Create a Custom Microsoft Dataverse Table - Understand Dataverse Data Type](https://youtu.be/0ADj6-Fyy6k)
+
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchemena&theme=radical&show_icons=true)
 
