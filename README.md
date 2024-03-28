@@ -30,20 +30,24 @@ don't hesitate to reach out to me
 ## 🌱 
 I’m currently learning:
 
- - Power Apps 
- - Power Automate  
+ - Power Apps and Power Automate
+ - DotNet
+ - AI 
 
  
 ## 🤔
  I’m looking for:
   
-- Junior roles in Microsoft Power Platform 
+- Cloud Advocate roles in Power Platform
+- Program Manager role
+- Community Manager role
 
 
 ## ⚡ 
  Fun fact about me:
 - I love baking 
 - I love reading novels
+- I love speaking at events
  
 
 ## 👨‍💻 Skills
