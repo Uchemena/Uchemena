@@ -30,7 +30,6 @@ don't hesitate to reach out to me
 ## 🌱 
 I’m currently learning:
 
- - Power Apps and Power Automate
  - DotNet
  - AI 
 
@@ -51,7 +50,7 @@ I’m currently learning:
  
 
 ## 👨‍💻 Skills
-- Power Apps, Power Automate, Power Virtual Agent, Sharepoint, Microsoft 365, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Python
+- Power Apps, Power Automate, Power Virtual Agent, Sharepoint, Microsoft 365, DevOps, HTML, Git
 
 
 
