@@ -26,22 +26,6 @@ don't hesitate to reach out to me
 - My next blog 
  
 
- 
-## 🌱 
-I’m currently learning:
-
- - DotNet
- - AI 
-
- 
-## 🤔
- I’m looking for:
-  
-- Cloud Advocate roles in Power Platform
-- Program Manager role
-- Community Manager role
-
-
 ## ⚡ 
  Fun fact about me:
 - I love baking 
@@ -50,7 +34,7 @@ I’m currently learning:
  
 
 ## 👨‍💻 Skills
-- Power Apps, Power Automate, Power Virtual Agent, Sharepoint, Microsoft 365, DevOps, HTML, Git
+- Power Apps, Power Automate, Copilot Studio, Power Pages,  Dynamics 365 CRM,  Sharepoint, Microsoft 365, DevOps, HTML, Git
 
 
 
